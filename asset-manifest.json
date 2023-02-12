@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cdaa4e0.css",
+    "main.js": "/static/js/main.6907ed59.js",
+    "static/media/inter-v12-latin-800.woff": "/static/media/inter-v12-latin-800.f8e8bd61bdf890048dd1.woff",
+    "static/media/inter-v12-latin-700.woff": "/static/media/inter-v12-latin-700.7ad0df5561cc0933cead.woff",
+    "static/media/inter-v12-latin-600.woff": "/static/media/inter-v12-latin-600.a8909bb7bbff51df8622.woff",
+    "static/media/inter-v12-latin-500.woff": "/static/media/inter-v12-latin-500.2e89c7eec639d70f9770.woff",
+    "static/media/inter-v12-latin-900.woff": "/static/media/inter-v12-latin-900.c5ccfaf539e28bfddffe.woff",
+    "static/media/inter-v12-latin-regular.woff": "/static/media/inter-v12-latin-regular.817c4274293e221c5076.woff",
+    "static/media/inter-v12-latin-700.woff2": "/static/media/inter-v12-latin-700.54321e26b8bf4739a16d.woff2",
+    "static/media/inter-v12-latin-800.woff2": "/static/media/inter-v12-latin-800.7e1a31f93354d23987f4.woff2",
+    "static/media/inter-v12-latin-600.woff2": "/static/media/inter-v12-latin-600.8f1e0300e8d26fa8919d.woff2",
+    "static/media/inter-v12-latin-500.woff2": "/static/media/inter-v12-latin-500.c72c72b70c82b1f4bacf.woff2",
+    "static/media/inter-v12-latin-900.woff2": "/static/media/inter-v12-latin-900.6453f04550c5da4cc6b8.woff2",
+    "static/media/inter-v12-latin-regular.woff2": "/static/media/inter-v12-latin-regular.be7cb18dc7caf47cf7e9.woff2",
+    "static/media/panel.png": "/static/media/panel.36bcdaa6ed6b0216fa01.png",
+    "static/media/people.svg": "/static/media/people.565efaf37875b056d8e0.svg",
+    "static/media/star.svg": "/static/media/star.debae0e3ca99ad0e4281.svg",
+    "static/media/icon5.svg": "/static/media/icon5.f9499eb66af64de95dc0.svg",
+    "static/media/GitHub.svg": "/static/media/GitHub.49da63f6c34253d3e23e7327a06f4525.svg",
+    "static/media/icon3.svg": "/static/media/icon3.d12d36f7eeb8901d068f.svg",
+    "static/media/icon4.svg": "/static/media/icon4.85ddd9aeda12bef1531e.svg",
+    "static/media/repo-icon.svg": "/static/media/repo-icon.cd59b75249b1c39a4669.svg",
+    "static/media/icon2.svg": "/static/media/icon2.c0436d1d088831767c1b.svg",
+    "static/media/icon22.svg": "/static/media/icon22.808ef80d265f5efce36f.svg",
+    "static/media/notice.svg": "/static/media/notice.a7a38b805c03681d922d00623d81fb8d.svg",
+    "static/media/icon1.svg": "/static/media/icon1.8dc33f03d1f2fb193db0.svg",
+    "static/media/star2.svg": "/static/media/star2.9874aa054ce5dd54e198.svg",
+    "index.html": "/index.html",
+    "static/media/chevron-right.svg": "/static/media/chevron-right.2dd7da3f019f313b3ea6.svg",
+    "static/media/chevron-left.svg": "/static/media/chevron-left.91ebf738631af74d3eb6.svg",
+    "static/media/select.svg": "/static/media/select.24c0afcf63aa0469c2a86d9c96a9aa57.svg",
+    "static/media/plus-down.svg": "/static/media/plus-down.4846d311f34bf2535ac1f1c838243ce9.svg",
+    "static/media/down.svg": "/static/media/down.11e25723d389f3953559f912eec4c6de.svg",
+    "main.9cdaa4e0.css.map": "/static/css/main.9cdaa4e0.css.map",
+    "main.6907ed59.js.map": "/static/js/main.6907ed59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cdaa4e0.css",
+    "static/js/main.6907ed59.js"
+  ]
+}
